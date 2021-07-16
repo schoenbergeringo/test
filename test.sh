@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "First arg: $1"
+defaults write com.apple.Safari CustomUserAgent "$1"
