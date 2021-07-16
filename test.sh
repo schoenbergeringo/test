@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+echo "First arg: $1"
