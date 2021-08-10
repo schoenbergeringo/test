@@ -1,2 +1,2 @@
 #!/bin/bash
-defaults write com.apple.Safari CustomUserAgent "$1"
+defaults general.useragent.extra.firefox "$1"
